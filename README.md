@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yungmuchen
 - 👀 I’m interested in wireless network, devop, and machine learning.
-- 🌱 I’m currently learning pytorch, tensorflow, Theano, etc.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning n8n, langchain, mcp, etc.
 - 📫 How to reach me at https://www.linkedin.com/in/yung-mu-chen-7264a735/
 
 <!---
